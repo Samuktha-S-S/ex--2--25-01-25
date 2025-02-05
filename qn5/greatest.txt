@@ -1,0 +1,3 @@
+auist@TF050:~/Documents/r2024115043$ ./greatest
+the numb3 is greatestauist@TF050:~/Documents/r2024115043$ 
+
