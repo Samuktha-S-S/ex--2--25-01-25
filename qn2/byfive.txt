@@ -1,0 +1,3 @@
+a,b10
+5
+auist@TF050:~/Documents/r2024115043$ ^C
