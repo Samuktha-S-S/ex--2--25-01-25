@@ -1,0 +1,5 @@
+~/Documents/r2024115043$ gcc -omark mark.c
+auist@TF050:~/Documents/r2024115043$ ./mark
+enter marks72
+grade Cauist@TF050:~/Documents/r2024115043$ 
+
