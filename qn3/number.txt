@@ -1,0 +1,6 @@
+auist@TF050:~/Documents/r2024115043$ ./number
+enter number-9
+the number -9 is negativeauist@TF050:~/Documents/r2024115043$ ^C
+auist@TF050:~/Documents/r2024115043$ 
+
+
