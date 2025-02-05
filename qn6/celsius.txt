@@ -1,0 +1,4 @@
+auist@TF050:~/Documents/r2024115043$ ./celsius
+enter c34
+the fahrenhit value of celsius is 34.000000auist@TF050:~/Documents/r2024115043$ 
+
