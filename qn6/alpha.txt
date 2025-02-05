@@ -1,0 +1,7 @@
+auist@TF050:~/Documents/r2024115043$ gcc -oalpha alpha.c
+auist@TF050:~/Documents/r2024115043$ ./alpha
+enter a character2
+50this is a digitauist@TF050:~/Documents/r2024115043$ 
+
+
+
