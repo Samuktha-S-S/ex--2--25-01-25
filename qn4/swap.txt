@@ -1,0 +1,4 @@
+t@TF050:~/Documents/r2024115043$ gcc -oswap swap.c
+auist@TF050:~/Documents/r2024115043$ ./swap
+after swapping a=20 ,b=10 
+
