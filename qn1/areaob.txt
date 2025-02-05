@@ -1,0 +1,6 @@
+auist@TF050:~/Documents/r2024115043$ gcc -o area area.c
+auist@TF050:~/Documents/r2024115043$ ./area
+enter r,pi4
+3.14
+50.240002auist@TF050:~/Documents/r2024115043$ ^C
+
